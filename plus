@@ -1,7 +1,7 @@
 {
 "status": 1,
 "update_isforce":false,  
-"update_isapk":false,  
+"update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
@@ -18,7 +18,7 @@
 "update_link_android4":"https://dl.dropboxusercontent.com/s/hfyir7a7dgyyfiy/1.2.4f.apk",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
-"enable_install_player":false,
+"enable_install_player":true,
 "title_player":"Polygon Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
 "link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.2.0r/1.2.0r.apk",
@@ -27,12 +27,12 @@
 "pkg_player_new":"com.ae.video.bplayer",
 "name_player_new":"BPlayer",
 "des_player_new":"Please install Bplayer to watch",
-"player_new_build":"19",
-"player_new_link":"https://github.com/bloodhornaaa/adc/releases/download/1.1.8/1.1.8.apk",
+"player_new_build":"18",
+"player_new_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.1.7b/1.1.7b.apk",
 "force_playernew_direct_link":false,
-"enable_force_player":false,
+"enable_force_player":true,
 "tmdb_key":"de46e6f53a84b5f39c219d07ad20b698",
-"iron_enable":false,
+"iron_enable":true,
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
 "force_player_direct_link":false,
 "aparat_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBqd3BsYXllcigidnBsYXllciIpLmdldFBsYXlsaXN0SXRlbSgpLmZpbGU7CiAgICBpZihjb2RlICE9PSB1bmRlZmluZWQgJiYgY29kZSAhPT0gbnVsbCAmJiBjb2RlLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgxKTsKICAgICAgICB9CiAgICB9Cn0K",
