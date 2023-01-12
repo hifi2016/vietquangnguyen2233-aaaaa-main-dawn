@@ -1,7 +1,7 @@
 {
 "status": 1,
 "update_isforce":false,  
-"update_isapk":true,  
+"update_isapk":false,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
@@ -32,7 +32,7 @@
 "force_playernew_direct_link":false,
 "enable_force_player":false,
 "tmdb_key":"de46e6f53a84b5f39c219d07ad20b698",
-"iron_enable":true,
+"iron_enable":false,
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
 "force_player_direct_link":false,
 "aparat_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBqd3BsYXllcigidnBsYXllciIpLmdldFBsYXlsaXN0SXRlbSgpLmZpbGU7CiAgICBpZihjb2RlICE9PSB1bmRlZmluZWQgJiYgY29kZSAhPT0gbnVsbCAmJiBjb2RlLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgxKTsKICAgICAgICB9CiAgICB9Cn0K",
